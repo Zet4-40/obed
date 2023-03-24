@@ -1,0 +1,82 @@
+{"menu": [
+    { 
+        "id":1,
+        "Nombre": "hamburguesa",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima1.jpg"
+
+    },
+    { 
+        "id":2, 
+    "Nombre": "tacos",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima2.jpg"
+
+    },
+    { 
+        "id":3,    
+    "Nombre": "papasfritas",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima3.jpg"
+    },
+
+    { 
+        "id":4,    
+    "Nombre": "hamburguesa",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima4.jpg"
+    },
+
+    { 
+        "id":5,    
+    "Nombre": "hamburguesa",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima5.jpg"
+    },
+
+    { 
+        "id":6,  
+    "Nombre": "hamburguesa",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima6.jpg"
+    },
+
+    { 
+        "id":7,
+    "Nombre": "hamburguesa",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima7.jpg"
+    },
+
+    { 
+        "id":8,
+    "Nombre": "hamburguesa",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima8.jpg"
+    },
+
+    { 
+        "id":9, 
+    "Nombre": "hamburguesa",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima9.jpg"
+    },
+
+    { 
+        "id":10,
+    "Nombre": "hamburguesa",
+    "Descripcion": "Doble carne, con tocino, queso amarillo, jalapeño",
+    "Precio": 100,
+    "Imagen": "img/ima10.jpg"
+    }
+]
+}
